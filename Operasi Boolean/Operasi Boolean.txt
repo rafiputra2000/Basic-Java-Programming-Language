@@ -1,0 +1,5 @@
+Operasi Boolean 
+*) && (AND)
+*) || (OR)
+*) ! (NOT)/kebalikan
+

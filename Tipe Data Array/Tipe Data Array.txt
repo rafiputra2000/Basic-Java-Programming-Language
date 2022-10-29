@@ -1,0 +1,11 @@
+Tipe Data Array
+*) Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama
+*) Jumlah data array tidak bisa berubah setelah pertama kali dibuat
+
+Operasi Di Array
+*) array[index] untuk mengambil data array
+*) array[index] = value, untuk mengubah data di array
+*) array.length, mengambil panjang array
+
+note :
+1) Memungkinkan membuat array didalam array

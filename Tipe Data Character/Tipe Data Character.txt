@@ -1,0 +1,9 @@
+Tipe Data Character
+*) Data Character (huruf) di java direpresentasikan oleh tipe char.
+*) Untuk membuat data char di java, kita bisa menggunakan tanda ' (petik satu) diawal dan diakhir karakter
+
+contoh programnya
+
+char e = 'E';
+char k = 'K';
+char 0 = 'O';

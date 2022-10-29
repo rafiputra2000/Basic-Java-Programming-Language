@@ -1,0 +1,6 @@
+Method Parameters
+*) Kita bisa mengirim informasi ke method yang ingin kita panggil
+*) untuk melakukan hal tersebut, kita perlu menambahkan parameter atau argument di method yang sudah kita buat
+*) Cara membuat parameter sama seperti cara membuat variabel
+*) parameter ditempatkan didalam kurung () di deklarasi method
+*) parameter bisa lebih dari satu, harus dipisah menggunakan tanda koma

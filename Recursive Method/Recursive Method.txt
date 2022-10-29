@@ -1,0 +1,8 @@
+Recursive Method
+*) Recursive method adalah kemampuan method dirinya sendiri
+*) Kadang memang ada banyak problem, yang lebih mudah diselesaikan menggunakan recursive method, seperti contohnya kasus factorial
+
+Problem Dengan Recursive
+*) Walaupun recursive method itu sangat menarik, namun kita perlu berhati hati
+*) Jika recursive terlalu dalam, maka akan ada kemungkinan terjadi error StackOverflow, yaitu error dimana stack method terlalu banyak di java
+*) Kenapa problem ini bisa terjadi? karena ketika kita memanggil method, Java akan menyimpannya dalam stack, jika method tersebut memanggil method lain, maka stack akan menumpuk terus, dan jika terlalu dalam, maka stack akan terlalu besar, dan bisa menyebabkan error StackOverflow

@@ -1,0 +1,29 @@
+Sejarah Java 
+*) java adalah bahasa pemrograman untuk yang dibuat oleh james gosling saat bekerja di sun Microsystem
+*) java dirilis pada tahun 1995
+*) java adalah bahasa pemrograman berorientasi objek dan mendukung pengelolaan memori secara otomatis
+*) james gosling yang bekerja di sun microsystem, sun microsystem dibeli oleh oracle
+*) java terkenal dengan write once, run anywhere karena binary program java di generate secara independen
+
+
+Penggunaan Java di perusahaan
+*) Java sebagai backend, banyak perusahaan besar menggunakan java antara
+lain netflix, spotify, amazon, alibaba, blibli.
+*) Big data yang digunakan bahasa pemrograman adalah java dan python.
+
+
+JRE VS JDK 
+*) JRE singkatan dari Java Runtime Environment
+JRE sebagai compiling aplikasi 
+*) JDK singkatan dari Java Development Kit
+JDK digunakan untuk men develop program
+
+Java Virtual Machine
+*) Java adalah bahasa pemrograman, otak dibalik teknologi java sebenarnya sebuah teknologi yang disebut java virtual machine
+*) JVM merupakan program yang digunakan untuk mengeksekusi binary file java, karena JVM hanya mengerti binary file.
+*) maka dari itu banyak pemrograman menggunakan JVM antara lain kotlin, Scala.
+
+Proses Development Program Java
+*) Java Development Kit digunakan untuk mengcompile kode java(File.java) menjadi Java Binary(File.class).
+*) Java Runtime Environment menjalankan Java binary(File.class) kemudian dapat di bungkus menggunakan Java Archive(File.jar).
+

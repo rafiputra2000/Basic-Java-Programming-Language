@@ -1,0 +1,5 @@
+For Each
+*) kadang kala kita mengakses data array menggunakan perulangan
+*) mengakses data array menggunakan perulangan sangat bertele tele, kita harus membuat counter, lalu mengakses array menggunakan counter yang kita buat
+*) Namun untungnya, di java terdapat perulangan for each, yang bisa digunakan untuk menakses seluruh data di Array secara otomatis
+

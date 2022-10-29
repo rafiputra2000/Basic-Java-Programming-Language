@@ -1,0 +1,6 @@
+Tipe Data String 
+*) Tipe data string adalah tipe data yang berisikan data kumpulan karakter atau sederhananya teks
+*) Di java, tipe data string direpresentasikan dengan kata kunci String
+*) Untuk membuat String di java, kira menggunakan karakter " (petik dua) sebelum dan sesudahnya
+*) Default value untuk String adalah null
+

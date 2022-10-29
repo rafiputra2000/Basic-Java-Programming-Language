@@ -1,0 +1,14 @@
+If Statement
+*) Dalam java, if adalah salah satu kata kunci yang digunakan untuk percabangan
+*) Percabangan artinya kita bisa mengeksekusi kode program tertentu keika suatu kondisi terpenuhi
+*) Hampir di semua bahasa pemrograman menddukung if expression
+
+Else Statement
+*) Blok if akan dieksekusi ketika kondisi if bernilai true
+*) Kadang kita ingin melakukan eksekusi program tertentu jika kondisi if bernilai false
+*) Hal ini bisa dilakukan menggunakan else expression
+
+Else if Statement
+*) Kadang dalam if, kita butuh membuat beberapa kondisi
+*) Kasus seperti ini, dijava kita bisa menggunakan Else If Expression
+*) Else if di java bisa lebih dari satu
